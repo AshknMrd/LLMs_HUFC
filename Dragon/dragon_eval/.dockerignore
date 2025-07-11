@@ -1,0 +1,8 @@
+test-output/
+test-output-expected/
+test-predictions/
+.git/
+*.tar.gz
+build.sh
+export.sh
+test.sh

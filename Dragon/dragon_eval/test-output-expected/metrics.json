@@ -1,0 +1,109 @@
+{
+    "case": {
+        "Task101_Example_sl_bin_clf": {
+            "Task101_Example_sl_bin_clf-fold0": 0.999266862170088,
+            "Task101_Example_sl_bin_clf-fold1": 0.999450146627566,
+            "Task101_Example_sl_bin_clf-fold2": 0.999266862170088,
+            "Task101_Example_sl_bin_clf-fold3": 0.873900293255132,
+            "Task101_Example_sl_bin_clf-fold4": 0.8410923753665689
+        },
+        "Task102_Example_sl_mc_clf": {
+            "Task102_Example_sl_mc_clf-fold0": 0.8839381003201707,
+            "Task102_Example_sl_mc_clf-fold1": 0.8839381003201707,
+            "Task102_Example_sl_mc_clf-fold2": 0.7912265440536846,
+            "Task102_Example_sl_mc_clf-fold3": 0.8802458950954041,
+            "Task102_Example_sl_mc_clf-fold4": 0.8802458950954041
+        },
+        "Task103_Example_mednli": {
+            "Task103_Example_mednli-fold0": 0.8512396694214877,
+            "Task103_Example_mednli-fold1": 0.8630705394190872,
+            "Task103_Example_mednli-fold2": 0.825,
+            "Task103_Example_mednli-fold3": 0.8132780082987552,
+            "Task103_Example_mednli-fold4": 0.8381742738589212
+        },
+        "Task104_Example_ml_bin_clf": {
+            "Task104_Example_ml_bin_clf-fold0": 0.9894364009196546,
+            "Task104_Example_ml_bin_clf-fold1": 0.9923258559622194,
+            "Task104_Example_ml_bin_clf-fold2": 0.9862750885478158,
+            "Task104_Example_ml_bin_clf-fold3": 0.9924035294848692,
+            "Task104_Example_ml_bin_clf-fold4": 0.9894985397377742
+        },
+        "Task105_Example_ml_mc_clf": {
+            "Task105_Example_ml_mc_clf-fold0": 0.8935040679527196,
+            "Task105_Example_ml_mc_clf-fold1": 0.9054284695333197,
+            "Task105_Example_ml_mc_clf-fold2": 0.8966111430212522,
+            "Task105_Example_ml_mc_clf-fold3": 0.8849987222080246,
+            "Task105_Example_ml_mc_clf-fold4": 0.9026921829386961
+        },
+        "Task106_Example_sl_reg": {
+            "Task106_Example_sl_reg-fold0": 0.8890432953610992,
+            "Task106_Example_sl_reg-fold1": 0.9035329108817831,
+            "Task106_Example_sl_reg-fold2": 0.8806285988526494,
+            "Task106_Example_sl_reg-fold3": 0.8834450776711055,
+            "Task106_Example_sl_reg-fold4": 0.8915142327604583
+        },
+        "Task107_Example_ml_reg": {
+            "Task107_Example_ml_reg-fold0": 0.8308601146919437,
+            "Task107_Example_ml_reg-fold1": 0.8245927934951243,
+            "Task107_Example_ml_reg-fold2": 0.821085137914376,
+            "Task107_Example_ml_reg-fold3": 0.829159072201954,
+            "Task107_Example_ml_reg-fold4": 0.8104796909319699
+        },
+        "Task108_Example_sl_ner": {
+            "Task108_Example_sl_ner-fold0": 0.4125138406261866,
+            "Task108_Example_sl_ner-fold1": 0.44612794612794615,
+            "Task108_Example_sl_ner-fold2": 0.4268940119513083,
+            "Task108_Example_sl_ner-fold3": 0.4813962375073486,
+            "Task108_Example_sl_ner-fold4": 0.46528683056984943
+        },
+        "Task109_Example_ml_ner": {
+            "Task109_Example_ml_ner-fold0": 0.6903447455697956,
+            "Task109_Example_ml_ner-fold1": 0.37410302280181723,
+            "Task109_Example_ml_ner-fold2": 0.5015256558710989,
+            "Task109_Example_ml_ner-fold3": 0.579724982703389,
+            "Task109_Example_ml_ner-fold4": 0.5346206317650887
+        }
+    },
+    "aggregates": {
+        "Task101_Example_sl_bin_clf": {
+            "mean": 0.9425953079178886,
+            "std": 0.07025333182626643
+        },
+        "Task102_Example_sl_mc_clf": {
+            "mean": 0.8639189069769669,
+            "std": 0.03638366917625135
+        },
+        "Task103_Example_mednli": {
+            "mean": 0.8381524981996501,
+            "std": 0.017798380598830436
+        },
+        "Task104_Example_ml_bin_clf": {
+            "mean": 0.9899878829304667,
+            "std": 0.0022640626082035837
+        },
+        "Task105_Example_ml_mc_clf": {
+            "mean": 0.8966469171308024,
+            "std": 0.007200279536078626
+        },
+        "Task106_Example_sl_reg": {
+            "mean": 0.8896328231054191,
+            "std": 0.00795567638100063
+        },
+        "Task107_Example_ml_reg": {
+            "mean": 0.8232353618470736,
+            "std": 0.007244313969564926
+        },
+        "Task108_Example_sl_ner": {
+            "mean": 0.4464437733565278,
+            "std": 0.024941005626412608
+        },
+        "Task109_Example_ml_ner": {
+            "mean": 0.5360638077422378,
+            "std": 0.10308750508769826
+        },
+        "overall": {
+            "mean": 0.8029641421341148,
+            "std": 0.030792024978922986
+        }
+    }
+}
