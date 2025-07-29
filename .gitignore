@@ -30,6 +30,7 @@ ENV/
 # VSCode and IDE settings
 .vscode/
 .idea/
+.DS_Store
 
 # Ignore this specific folder completely
 LLM/dataset
