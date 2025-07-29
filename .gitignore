@@ -34,3 +34,4 @@ ENV/
 # Ignore this specific folder completely
 LLM/dataset
 LLM/wandb
+LLM/.gradio
